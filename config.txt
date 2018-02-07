@@ -1,0 +1,27 @@
+[SETTINGS]
+username = levon.ghasabyan
+# show pending
+status = 0
+# specify download path
+download_path = /Users/User/Desktop/downloads
+max_tabs = 100
+browser_exe_path = /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+[BACKENDS]
+backend1
+backend2
+backend3
+
+[ARMY_BACKENDS]
+backend4
+backend5
+backend6
+
+[ACTIVITIES]
+Using Notepad++
+Using jsFiddle
+
+
+#[DATES]
+#2017-12-17
+#2017-12-19,2017-12-21

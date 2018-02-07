@@ -1,0 +1,6 @@
+-r prod.txt
+
+flake8==2.4.1
+PyInstaller==3.3
+
+
